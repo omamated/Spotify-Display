@@ -1,1 +1,12 @@
 
+# 	Name 	Purpose 	Cost (USD) 	Qty 	Total (USD) 	Distributor 	Link
+2 	20 AWG Wire 	For soldering, initial prototyping 	3.50 	1 	3.50 	AliExpress 	Buy
+3 	MX Switches (Red) 	Controls 	3.10 	1 	3.10 	AliExpress 	Buy
+4 	Self‑tapping screws M3×14 	Connect top and bottom case 	1.50 	1 	1.50 	AliExpress 	Buy
+5 	Nuts (M3) 	Fasten the LCD 	1.60 	1 	1.60 	AliExpress 	Buy
+6 	ESP32‑C3 	Main MCU 	6.17 	1 	6.17 	AliExpress 	Buy
+7 	2.8" ILI9341 LCD 	Display to show content 	8.63 	1 	8.63 	AliExpress 	Buy
+8 	Female‑female jumper wires 	Connect components during prototyping 	3.00 	1 	3.00 	AliExpress 	Buy
+9 	Screws (M3×6 mm) 	Fasten the LCD 	4.00 	1 	4.00 	AliExpress 	Buy
+10 	Male headers 	Solder onto the dev board 	1.80 	1 	1.80 	AliExpress 	Buy
+11 	Design credit 	Inspired/adapted from AAhil78 	— 	— 	— 	— 	—
